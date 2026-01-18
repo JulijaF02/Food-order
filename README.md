@@ -34,4 +34,3 @@ A desktop-based Food Ordering System built with **C#** and **Windows Forms**. Th
 4.  Build and Run the project.
 
 ---
-*Developed as a part of a technical defensive presentation (TVP) focusing on practical C# application development.*
